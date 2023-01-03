@@ -1,6 +1,6 @@
 ![MasterHead](https://t3.ftcdn.net/jpg/02/96/61/94/360_F_296619471_iEGweTy9VsokHtbCJsVmyez0d2rocmmA.jpg)
 <h1 align="center">Hey !!  👋,  I'm   Venugopal N  </h1>
-<h3 align="center">A DevOps / Build & Release Engineer based out of India</h3>
+<h3 align="center">A DevOps / Build & Release Engineer based out of India. Keen on learning new concepts on DevOps way of working & CI/CD pipeline</h3>
 <img align="center" alt="Coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=venuvoldeos&label=Profile%20views&color=0e75b6&style=flat" alt="venuvoldeos" /> </p>
