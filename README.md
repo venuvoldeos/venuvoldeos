@@ -1,35 +1,29 @@
 ![MasterHead](https://t3.ftcdn.net/jpg/02/96/61/94/360_F_296619471_iEGweTy9VsokHtbCJsVmyez0d2rocmmA.jpg)
-<h1 align="center">Hey !!  👋,  I'm   Venugopal N  </h1>
-<h3 align="center">A DevOps / Build & Release Engineer based out of India. Keen on learning new concepts on DevOps way of working & CI/CD pipeline</h3>
-<img align="center" alt="Coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=venuvoldeos&label=Profile%20views&color=0e75b6&style=flat" alt="venuvoldeos" /> </p>
+# 💫 About Me:
+Hello World !! 👋, <br><br>I'm Venugopal, a DevOps / Build & Release Engineer based out of Bengaluru India. Keen on learning new concepts on DevOps way of working & CI/CD pipeline  <br><br>    🔭 I’m currently working on Python Basics, Jenkinsfile modifications, Dockerization of legacy build systems, Build Optimization<br><br>    🌱 I’m currently learning Python, Ansible, CI/CD, Jenkins Pipeline, Dockers, Kubernates<br><br>    📝 I often blog on http://venuvoldeos.blogspot.com/<br><br>    💬 You can talk to me about CI/CD, Jenkins, DevOps<br><br>    📫 How to reach me venugopalnv@gmail.com<br><br>    📄 Know about my experiences https://www.linkedin.com/in/venugopalnarayana/<br>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=venuvoldeos" alt="venuvoldeos" /></a> </p>
 
-- 🔭 I’m currently working on [Python Basics, Jenkinsfile modifications, Dockerization of legacy build systems, Build Optimization](https://replit.com/@venuvoldeos)
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/venugopalnv) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/venugopalnarayana) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/venuvoldeos) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/venugopalnarayana) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/venuvoldeos) 
 
-- 🌱 I’m currently learning **python, Ansible, CI/CD, Jenkins Pipeline, Dockers, Kubernates**
+# 💻 Tech Stack:
+![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=plastic&logo=docker&logoColor=white) ![Confluence](https://img.shields.io/badge/confluence-%23172BF4.svg?style=plastic&logo=confluence&logoColor=white) ![CMake](https://img.shields.io/badge/CMake-%23008FBA.svg?style=plastic&logo=cmake&logoColor=white) ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=plastic&logo=jenkins&logoColor=white) ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=plastic&logo=gnu-bash&logoColor=white) ![Apache Groovy](https://img.shields.io/badge/Apache%20Groovy-4298B8.svg?style=plastic&logo=Apache+Groovy&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=plastic&logo=markdown&logoColor=white) ![Ansible](https://img.shields.io/badge/ansible-%231A1918.svg?style=plastic&logo=ansible&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=venuvoldeos&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=venuvoldeos&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=venuvoldeos&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-- 📝 I often blog on [http://venuvoldeos.blogspot.com/](http://venuvoldeos.blogspot.com/)
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=venuvoldeos&theme=juicyfresh&no-frame=false&no-bg=false&margin-w=4)
 
-- 💬 You can talk to me about  **CI/CD, Jenkins, DevOps**
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
 
-- 📫 How to reach me **venugopalnv@gmail.com**
+### 😂 Random Dev Meme
+<img src="https://random-memer.herokuapp.com/" width="512px"/>
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/venugopalnarayana/](https://www.linkedin.com/in/venugopalnarayana/)
+---
+[![](https://visitcount.itsvg.in/api?id=venuvoldeos&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/venuvoldeos" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="venuvoldeos" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/venugopalnarayana" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="venugopalnarayana" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/venuvoldeos" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="venuvoldeos" height="30" width="40" /></a>
-<a href="https://instagram.com/venugopalnv" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="venugopalnv" height="30" width="40" /></a>
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=venuvoldeos&show_icons=true&locale=en&layout=compact" alt="venuvoldeos" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=venuvoldeos&show_icons=true&locale=en" alt="venuvoldeos" /></p>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
