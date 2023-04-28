@@ -1,0 +1,12 @@
+--- 
+all: 
+  children: 
+    datacenter:
+
+datacenter: 
+  children:
+    sjc:
+
+sjc: 
+  hosts: 
+    hostname.comany.com:

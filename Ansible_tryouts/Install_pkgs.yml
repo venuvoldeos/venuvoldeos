@@ -1,0 +1,71 @@
+---
+- name: FXOS host bootstrapping - CEL8
+  hosts: all
+  become: yes #to enable sudo. it by default assumes you will run it as root if given yes
+  gather_facts: false
+
+  tasks:
+  - name: Initiate login request CDNN
+    shell: /bin/touch /tmp/hello && /bin/rm /tmp/hello
+    #changed_when: false 
+
+  - name: Install required packages
+    yum:
+      name: "{{ item }}"
+      state: present
+    loop:
+      - screen
+      - git
+      - chrpath
+      - help2man
+      - gcc-c++
+      - texinfo
+      - SDL-devel
+      - subversion
+      - diffstat
+      - texi2html
+      - glibc-devel.i686
+      - libXext
+      - libXtst.i686
+      - zlib.i686
+      - byacc
+      - flex
+      - python36
+      - python36-pip
+      - libxml2
+      - libxml2.i686
+      - python2
+      - rpcgen
+      - pygtk2
+      - ncurses-libs.i686
+      - libnsl.i686
+      - curl-devel
+      - zlib-devel
+      - openssl-devel
+      - compat-openssl10.x86_64
+      - perl-Env
+      - java7
+      - 'libnsl*'
+
+  - name: Install curl
+    yum:
+      name: libcurl-devel
+      state: present
+
+  - name: Install Java 8
+    yum:
+      name: java-1.8.0-openjdk
+      state: present
+
+  - name: Verify Java installation
+    shell: "{{ item }}"
+    register: java_output
+    ignore_errors: true
+    loop:
+      - "which java"
+      - "java -version"
+    #changed_when: false
+
+  #- name: Display Java version
+   # debug:
+    #  var: java_output.stdout_lines
